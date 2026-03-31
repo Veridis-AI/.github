@@ -9,7 +9,9 @@
 <p align="center">
   <a href="https://veridis.ai">Website</a> ·
  
-LLMs & open source AI agents are becoming the operating systems of agentic commerce. Veridis builds infrastructure that makes merchants discoverable, trustworthy, and transactable when agents shop on behalf of consumers & enterprises.
+LLMs & open source AI agents are becoming the operating systems of agentic commerce. 
+
+Veridis builds infrastructure that makes merchants discoverable, trustworthy, and transactable when agents shop on behalf of consumers & enterprises.
 
 ### Built with
 
